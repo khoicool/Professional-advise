@@ -122,5 +122,5 @@ aside {
 }
 
 aside:hover::before {
-    content: url("");
+    content: url("image 1 (1).png");
 }
